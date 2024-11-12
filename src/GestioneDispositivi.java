@@ -23,7 +23,7 @@ public class GestioneDispositivi {
         DispositivoElettronico computer = new Computer("MacBook");  //polimorfismo
         DispositivoElettronico televisore = new Televisore("LG");   //polimorfismo
 
-        //uso il metodo statico pergestire i vari dispositivi
+        //uso il metodo  per gestire i vari dispositivi
         System.out.println("\n Gestione smartphone:");
         gd.gestisciDispositivo(smartphone);
 
