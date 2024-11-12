@@ -34,7 +34,7 @@ public class GestioneDispositivi {
         gd.gestisciDispositivo(televisore);
 
 
-
+        System.out.println("test----\n");
 
     }
 }
